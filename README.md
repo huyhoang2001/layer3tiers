@@ -5,3 +5,5 @@
 #delete
 #search
 #conncet sql server
+#C#
+#ado.net
